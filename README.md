@@ -1,5 +1,7 @@
 # ELECTRIMETRICS
 
+<img width="920" alt="image" src="https://www.neuraldesigner.com/wp-content/uploads/2023/06/electricity-demand.webp">
+
 Electrical sales forecasting involves databases focused on analyzing diverse facets of electrical sales, encompassing factors influencing sales trends, patterns, and outcomes to predict future market drivers and provide insights for enhancing sales strategies, optimizing revenue, and mitigating potential market impacts.
 
 ### Dataset
